@@ -16,4 +16,4 @@ function sayHiToGrandma(string) {
 function sayHiToGrandma(string){
   return ('yes indeed')
 }
-expect('yes indeed') toEqual("I can't hear you!")
+expect(string('yes indeed')) toEqual(string("I can't hear you!"))
