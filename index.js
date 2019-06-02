@@ -24,5 +24,4 @@ describe('sayHiToGrandma(string)', function() {
   })
 })
 function sayHiToGrandma(string) {
-  return string.toLowerCase
 }
