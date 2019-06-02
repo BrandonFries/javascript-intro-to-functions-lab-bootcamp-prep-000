@@ -17,3 +17,4 @@ function sayHiToGrandma(string) {
   ('returns "YES INDEED!" if `string` is uppercase', function() {
     expect(sayHiToGrandma('HELLO')).toEqual("YES INDEED!")
   })
+}
