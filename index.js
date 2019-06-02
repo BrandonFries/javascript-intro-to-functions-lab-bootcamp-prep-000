@@ -17,4 +17,3 @@ function sayHiToGrandma(string){
   return ('yes indeed')
 }
 expect('yes indeed') toEqual("I can't hear you!")
- 
