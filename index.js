@@ -17,3 +17,6 @@ function sayHiToGrandma(string){
   return ('YES INDEED!')
   expect(shout('YES INDEED!')).toEqual("I love you, too!")
 }
+if (string.toLowerCase){
+  return (shout("I can't hear you!"))
+} 
