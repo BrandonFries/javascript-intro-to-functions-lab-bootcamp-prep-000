@@ -16,4 +16,4 @@ function sayHiToGrandma(string) {
 function sayHiToGrandma(string){
   return ('yes indeed')
 }
-expect(whisper('yes indeed')).toEqual("I cann't hear you!")
+expect(whisper('yes indeed')).toEqual("I can't hear you!")
