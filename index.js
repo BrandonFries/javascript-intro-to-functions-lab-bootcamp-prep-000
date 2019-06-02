@@ -16,4 +16,3 @@ function sayHiToGrandma(string) {
 function sayHiToGrandma(string){
   return ('YES INDEED!')
 }
-expect(shout('YES INDEED!')).toEqual("I can't hear you!")
